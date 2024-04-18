@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709715547 source:/home/herobrine/Desktop/cpp_SerialCom/Serial_Communication/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+	<thread>
+	<cstring>
+
